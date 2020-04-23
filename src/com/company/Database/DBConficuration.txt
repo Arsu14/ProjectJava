@@ -1,0 +1,4 @@
+fibonacci2project
+3307
+jdbc:mysql://localhost:
+root
