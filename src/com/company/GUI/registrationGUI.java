@@ -135,7 +135,7 @@ public class registrationGUI extends JFrame {
                 surname.setText("");
                 password.setText("");
                 repassword.setText("");
-                rsurname.setText("");
+
             }
             });
         add(reg);
